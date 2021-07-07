@@ -1,0 +1,13 @@
+button {
+    border-radius: 10px;
+    font-weight: 30;
+    background-color: black;
+    color: cornsilk;
+    margin: 10 10;
+
+}
+
+body {
+    display: flex;
+    background-color: cornsilk;
+}
